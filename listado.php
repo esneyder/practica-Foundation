@@ -74,7 +74,7 @@
        <td><?php echo $value['direccion'] ;?></td>
        <td><?php echo $value['telefono'] ;?></td>
        <td><?php echo $value['ciudad'] ;?></td>   
-       <td><a href="mod_persona.php?id=<?php echo $value['_id'] ;?>">Modificar</a></td>
+       <td><a href="modificar.php?id=<?php echo $value['_id'] ;?>">Modificar</a></td>
        <td><a href="eliminar.php?id=<?php echo $value['_id']; ?>">Eliminar</a></td>    
     </tr>
     <? } }?>

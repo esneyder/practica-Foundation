@@ -1,4 +1,4 @@
-# www.robotstxt.org/
-# www.google.com/support/webmasters/bin/answer.py?hl=en&answer=156449
+# https://ingedwinesneyder.wordpress.com/
+# http://mblogmongo.herokuapp.com
 
-User-agent: *
+edwin esneyder alvarez
